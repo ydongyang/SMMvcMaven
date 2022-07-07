@@ -82,7 +82,7 @@
 
         <artifactId>spring-expression</artifactId>
 
-        <version>3.2.2.RELEASE</version>
+        <version>5.2.21.RELEASE</version>
 
     </dependency>
 
